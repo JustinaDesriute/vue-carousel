@@ -62,7 +62,7 @@
       "institution": "Udacity (online learning platform)",
       "area": "Full-Stack Web Development",
       "studyType": "Nano-degree",
-      "startDate": "2018-03-01",
+      "startDate": "2018-03-01"
     }
   ],
   "publications": [
@@ -116,7 +116,8 @@
         "Bitbucket",
         "Jira",
         "Confluence",
-        "Jenkins"
+        "Jenkins",
+        "Heroku"
       ]
     }
   ],
